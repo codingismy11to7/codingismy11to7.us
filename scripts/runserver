@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./installdeps
+huge server -w
