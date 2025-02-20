@@ -10,35 +10,15 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: B.Sc. in Computer Science
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 1999-2005
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
+    name: Georgia Institute of Technology
+    url: "https://gatech.edu"
+    logo: /images/sections/education/gt.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
+    darkLogo: /images/sections/education/gt-dark.png
   grade: #(optional)
     scale: CGPA
     achieved: 3.5
