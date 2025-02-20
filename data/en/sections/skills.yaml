@@ -31,11 +31,11 @@ skills:
   categories: ["container"]
   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: TypeScript
+  logo: /images/sections/skills/ts.svg
+  summary: "Use as my main language for professional development. Capable of writing scalable, testable, and maintainable applications. Prefer the Effect stack."
   categories: ["basic", "language"]
-  url: "https://golang.org/"
+  url: "https://www.typescriptlang.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
@@ -61,11 +61,17 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Heavy usage of self-hosted GitLab, self-hosted GitHub, and GitHub.com."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Scala
+  logo: /images/sections/skills/scala.svg
+  summary: "Favorite language, paired with ZIO. Experience with Cats, heavy experience with Akka."
+  categories: ["basic", "language"]
+  url: "https://scala-lang.org/"
+
+- name: Rust
+  logo: /images/sections/skills/rust.svg
+  summary: "Know basic Rust programming. Used for Advent of Code and exploration."
   categories: ["basic", "language"]

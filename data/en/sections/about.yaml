@@ -20,7 +20,7 @@ company:
 
 # a summary about you
 #summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-summary: "I'm a software engineer with over 25 years of experience. I focus on backend, but am full stack when the need arises. I work on [hobby](https://github.com/codingismy11to7/guzzler) [projects](https://github.com/codingismy11to7/autongs), am an avid self-hoster, and spend my days writing network management software."
+summary: "I'm a software engineer with over 25 years of experience. I focus on backend, but am full stack when the need arises. I work on [hobby](https://github.com/codingismy11to7/guzzler) [projects](https://github.com/codingismy11to7/autongs), am an avid self-hoster, and spend my days writing network management software. I've contributed to [ZIO](https://zio.dev), [Effect](https://effect.website), [Akka](https://akka.io), [Scala](https://scala-lang.org), and more."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
