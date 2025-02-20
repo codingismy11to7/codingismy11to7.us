@@ -1,7 +1,7 @@
 baseURL: https://codingismy11to7.us
 
 languageCode: en
-title: "codingismy11to7.us"
+title: "Steven Scott"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "codingismy11to7.us"
+    title: "Steven Scott"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
